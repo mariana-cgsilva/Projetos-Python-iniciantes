@@ -1,0 +1,20 @@
+Descrição: 
+
+Elaborar um programa que faça a simulação de um caixa de uma loja.
+O usuário deverá digitar o Valor da Compra e o Valor Pago pelo cliente.
+O programa irá retornar o valor do troco, as cédulas que fazem parte do troco e a quantidade de cada cédula.
+Para este programa considere as cédulas de R$20, R$10, R$5 e R$1 real
+Considere a possibilidade de não haver troco.
+
+Bibliotecas: Não foram usadas bibliotecas neste projeto
+
+Exemplo para teste: 
+
+Valor da Compra: R$ 17.0
+Pagamento: R$ 100.0
+Troco: R$ 83.0
+em:
+20,00 = 4.0 cédulas
+10,00 = 0.0 cédulas
+5,00 = 0.0 cédulas
+1,00 = 3.0 cédulas
