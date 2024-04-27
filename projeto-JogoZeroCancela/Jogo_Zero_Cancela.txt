@@ -1,0 +1,75 @@
+Descrição: 
+
+IDEIA
+Construir um programa que calcule a soma de uma sequência de números digitados pelo usuário
+Infelizmente, de vez em quando, o usuário digita números errados e para isso há a seguinte regra:
+• Digite zero para desconsiderar o último número digitado
+• O usuário pode digitar até 3 vezes consecutivamente o zero para desconsiderar os três últimos números digitados
+• A inserção é finalizada quando um número negativo é digitado. 
+
+
+No final do programa deverá ser impressa a soma total da sequência digitada que desconsidera os números errado, quantos números foram considerados na soma e quantos foram desconsiderados. 
+
+Bibliotecas: Não foram usadas bibliotecas nesse projeto.
+
+Exmeplos para teste: 
+
+1)
+
+Entrada: 
+Bem Vindo ao Zero Cancela:
+Digite um número: 2
+Digite um número: 3
+Digite um número: 5
+Digite um número: 0
+Digite um número: 0 
+Digite um número: 4
+Digite um número: 9
+Digite um número: -1
+
+Saída: 
+Soma Total = 15
+Números Considerados = 3
+Números Desconsiderados = 2
+
+2)
+
+Entrada: 
+Bem Vindo ao Zero Cancela: 
+Digite um número: 5 
+Digite um número: 9
+Digite um número: 3
+Digite um número: 1
+Digite um número: 0
+Digite um número: 0
+Digite um número: 0
+Digite um número: 0
+Só é permitido até 3 zeros consecutivos!!!
+Digite um número: 4
+Digite um número: 1
+Digite um número: 0
+Digite um número: -1
+
+Saída:
+Saída: Soma Total = 9
+Números Considerados = 2
+Números Desconsiderados = 4
+
+3) 
+
+Entrada:
+Bem Vindo ao Zero Cancela:
+Digite um número: 10
+Digite um número: 3
+Digite um número: 1
+Digite um número: 0
+Digite um número: 4
+Digite um número: 0
+Digite um número: 0
+Digite um número: 0
+Digite um número: -1
+
+Saída:
+Saída: Soma Total = 0
+Números Considerados = 0
+Números Desconsiderados = 4
