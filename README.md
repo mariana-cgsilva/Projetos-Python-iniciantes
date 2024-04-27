@@ -1,16 +1,17 @@
-# Projetos para Iniciantes em Python: Repositório de Aprendizado
+# Beginner Python Projects: Learning Repository
 
-Bem-vindo ao meu repositório de projetos para iniciantes em Python! Este espaço foi criado com o objetivo de fornecer apoio aos que estão começando a explorar esta linguagem de programação. Todos os códigos disponíveis foram desenvolvidos por mim, e à medida que eu continuar a criar novos projetos, os adicionarei aqui.
+Welcome to my repository of beginner Python projects! This space was created with the aim of providing support to those who are just starting to explore this programming language. All available codes were developed by me, and as I continue to create new projects, I will add them here.
 
-## Como Utilizar:
+## How to Use:
 
-Cada projeto está organizado em pastas individuais. Dentro de cada pasta, você encontrará um arquivo de texto explicativo e os códigos correspondentes.
+Each project is organized into individual folders. Within each folder, you will find an explanatory text file and the corresponding codes.
 
-### Arquivos de Texto:
+### Text Files:
 
-Esses documentos têm o propósito de elucidar a ideia por trás de cada projeto, destacar as bibliotecas utilizadas e fornecer qualquer outra informação relevante.
+These documents aim to elucidate the idea behind each project, highlight the libraries used, and provide any other relevant information.
 
-### Códigos:
+### Codes:
 
-Os códigos disponibilizados neste repositório refletem minha jornada de aprendizado em Python. Eles não devem ser vistos como respostas definitivas, mas sim como minhas tentativas de resolver os projetos propostos. Se você encontrar uma abordagem melhor, por favor, sinta-se à vontade para compartilhá-la comigo! :)
+The codes available in this repository reflect my learning journey in Python. They should not be seen as definitive answers, but rather as my attempts to solve the proposed projects. If you find a better approach, please feel free to share it with me! :)
+
 
