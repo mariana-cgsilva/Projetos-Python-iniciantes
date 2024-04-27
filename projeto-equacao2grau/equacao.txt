@@ -1,0 +1,7 @@
+Descrição: Este programa calcula as raízes reais de uma equação do segundo grau depois que o usuário inserir os valores dos coeficientes A, B e C.
+
+Bibliotecas Utilizadas: Nenhuma biblioteca específica foi utilizada neste programa, no entanto, a biblioteca math pode ser útil para funcionalidades adicionais.
+
+Guia de Referência da Biblioteca:
+- math: [Documentação da Biblioteca Math](https://docs.python.org/3/library/math.html)
+
